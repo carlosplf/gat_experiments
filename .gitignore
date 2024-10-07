@@ -8,6 +8,7 @@ __pycache__/
 # CORA dataset
 data/*
 Cora/*
+CiteSeer/*
 
 # Performance logs folder
 logs/*
